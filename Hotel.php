@@ -2,6 +2,7 @@
 
 /**
  * Interface Hotel
+ * https://www.booking.com/hotel/us/edison-triumph-group.html
  */
 interface Hotel
 {
